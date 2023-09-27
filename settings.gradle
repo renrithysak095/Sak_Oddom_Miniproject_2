@@ -1,1 +1,8 @@
 rootProject.name = 'mini_project_2'
+include 'api-gateway'
+include 'common'
+include 'config-files'
+include 'config-server'
+include 'eureka_server'
+include 'task-service'
+include 'keycloak-admin-client'
